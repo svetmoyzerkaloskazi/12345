@@ -6,4 +6,4 @@ copy paste
 
 
 
-i am young junior and i want mor money 
+i am old senior and i want mor money 
