@@ -6,4 +6,4 @@ copy paste
 
 
 
-i am old senior and i want mor money 
+there is info from master
