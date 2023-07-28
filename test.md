@@ -7,4 +7,4 @@ copy paste
 
 
 there is info from master
-therer is info from not master
+i am old senior and from vetka2

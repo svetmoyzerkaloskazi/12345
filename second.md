@@ -3,4 +3,4 @@ this is my first program
 x = 3
 print(x)
 
-print (tgsdf  gsfdgfd dfg dfgdfgdfg) gsfgsgsdfgfsd
+print (true and false)
